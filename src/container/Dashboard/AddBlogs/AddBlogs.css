@@ -1,0 +1,9 @@
+.add__blog{
+    height: 100vh;
+}
+
+@media (max-width: 575.98px) { 
+    .add__blog{
+        height: 135vh;
+    }
+ }
